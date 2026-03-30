@@ -21,7 +21,7 @@ I created a public GitHub repository for the assignment and added the required f
 
 ## Walkthrough Video
 
-Unlisted video link: [PASTE YOUR YOUTUBE OR VIMEO LINK HERE]
+Unlisted video link: [Watch the walkthrough video](https://www.youtube.com/watch?v=IzoEXvzhFEE)
 
 ## Reflection
 
